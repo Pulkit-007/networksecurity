@@ -24,10 +24,10 @@ from sklearn.ensemble import (
     RandomForestClassifier,
 )
 import mlflow
+import dagshub
+dagshub.init(repo_owner='Pulkit-007', repo_name='networksecurity', mlflow=True)
+
 from urllib.parse import urlparse
-
-
-#dagshub.init(repo_owner='krishnaik06', repo_name='networksecurity', mlflow=True)
 
 
 

@@ -1,0 +1,11 @@
+[ 2026-03-17 00:42:06,611 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-03-17 00:42:06,618 ] 107 dagshub - INFO - Accessing as Pulkit-007
+[ 2026-03-17 00:42:07,533 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Pulkit-007/networksecurity "HTTP/1.1 200 OK"
+[ 2026-03-17 00:42:08,284 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-03-17 00:42:08,287 ] 107 dagshub - INFO - Initialized MLflow to track repo "Pulkit-007/networksecurity"
+[ 2026-03-17 00:42:08,288 ] 107 dagshub - INFO - Repository Pulkit-007/networksecurity initialized!
+[ 2026-03-17 00:42:08,350 ] 117 fastapi - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+

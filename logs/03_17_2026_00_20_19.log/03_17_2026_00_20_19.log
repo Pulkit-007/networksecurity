@@ -1,0 +1,6 @@
+[ 2026-03-17 00:20:22,230 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-03-17 00:20:22,233 ] 107 dagshub - INFO - Accessing as Pulkit-007
+[ 2026-03-17 00:20:23,014 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/Pulkit-007/networksecurity "HTTP/1.1 200 OK"
+[ 2026-03-17 00:20:23,783 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-03-17 00:20:23,784 ] 107 dagshub - INFO - Initialized MLflow to track repo "Pulkit-007/networksecurity"
+[ 2026-03-17 00:20:23,785 ] 107 dagshub - INFO - Repository Pulkit-007/networksecurity initialized!
